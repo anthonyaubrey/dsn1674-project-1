@@ -1,0 +1,38 @@
+h1, h2 {
+  font-weight: normal;
+  font-size: 3rem;
+  font style: normal;
+  font-family: 'Sigmar One', cursive;
+  color: #b32f52;
+}
+
+h1 {
+  font-size: 5rem;
+  padding: 0em 2em .5em 2em;
+  margin: 0;
+}
+
+nav {
+  padding: .5em;
+  margin: 0;
+  text-align: center;
+}
+
+nav li {
+    display: inline-block;
+}
+
+  nav ol {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+  padding: .5em;
+  margin: 0;
+  background-color: #ffe524;
+}
+
+a {
+  color: #ffffff;
+}
