@@ -11,6 +11,11 @@ h1, h2 {
   color: #b32f52;
 }
 
+h2 {
+  border-top: 4px solid #ffe524
+
+}
+
 h1 {
   font-size: 5rem;
   padding: .1em 2em .5em 2em;
@@ -99,3 +104,20 @@ dt {
 .fv {
   font-style: italic;
 }
+
+dd {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  background-color: #ffe524;
+  padding: 1em;
+  margin: 0;
+  text-align: center;
+}
+
+.s [
+ color:red;
+]
