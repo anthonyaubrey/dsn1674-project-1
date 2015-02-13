@@ -17,6 +17,7 @@ h1 {
   font-size: 5rem;
   padding: .1em 2em .5em 2em;
   margin: 0;
+  text-align: center;
 }
 
 nav {
@@ -116,5 +117,5 @@ footer {
 }
 
 .s [
-  
+
 ]
